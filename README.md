@@ -1,11 +1,22 @@
-# project_base
-Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
+Dimitrije Markovic 57/2019
 
-# Uputstvo
-1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
-2. CLion -> Open -> path/to/my/project_base
-3. Main se nalazi u src/main.cpp
-4. Cpp fajlovi idu u src folder
-5. Zaglavlja (h i hpp) fajlovi idu u include
-6. Šejderi idu u folder shaders. `Vertex shader` ima ekstenziju `.vs`, `fragment shader` ima ekstenziju `.fs`
-7. ALT+SHIFT+F10 -> project_base -> run
+Projekat sadrzi:
+
+Oblast A: Cubemaps Skybox
+
+Oblast B: HDR, Bloom
+
+Komande na tastaturi:
+
+F1 - otvara ImGUI prizor za podesavanje svetla
+
+F - Ukljucuje i iskljucuje flashlight
+
+T - Vrti se pistolj
+
+ESC - Iskljucuje aplikaciju
+
+W, A, S, D - Kretanje po sceni
+
+Link ka videu na YT-u: https://youtu.be/U1U6HyvgHMw
+
